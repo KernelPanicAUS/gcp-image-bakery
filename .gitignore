@@ -1,2 +1,4 @@
 roles/ansible-hardening/**
 roles/google-*/**
+.history/**
+.vscode/**
