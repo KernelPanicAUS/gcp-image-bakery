@@ -1,0 +1,8 @@
+- name: ansible-hardening
+  src: https://github.com/openstack/ansible-hardening.git
+  version: master
+  scm: git
+- name: google-cloud-ops-agents-ansible
+  src: https://github.com/GoogleCloudPlatform/google-cloud-ops-agents-ansible.git
+  version: master
+  scm: git

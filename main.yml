@@ -1,0 +1,7 @@
+- hosts: all
+  roles:
+    - role: host-upgrade
+    - role: ansible-hardening
+    # - role: google-cloud-ops-agents-ansible
+      # vars:
+        # agent_type: ops-agent
