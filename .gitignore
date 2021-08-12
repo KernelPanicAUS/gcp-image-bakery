@@ -1,0 +1,2 @@
+roles/ansible-hardening/**
+roles/google-*/**
