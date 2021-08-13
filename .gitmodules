@@ -1,0 +1,3 @@
+[submodule "posh-dsc-windows-hardening"]
+	path = posh-dsc-windows-hardening
+	url = https://github.com/NVISOsecurity/posh-dsc-windows-hardening
